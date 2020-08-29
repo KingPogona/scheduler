@@ -13,7 +13,7 @@ To create a simple way of storing and tracking tasks during workours
 https://kingpogona.github.io/scheduler/
 
 ## Screenshot
-<img width="1392" alt="Screen Shot 2020-08-29 at 2 21 08 PM" src="https://user-images.githubusercontent.com/31211822/91645643-043b8600-ea04-11ea-8c42-ce528a47c875.png">
+<img width="1279" alt="Screen Shot 2020-08-29 at 2 30 14 PM" src="https://user-images.githubusercontent.com/31211822/91645677-406ee680-ea04-11ea-97d9-ac3eaecfbc26.png">
 
 
 
